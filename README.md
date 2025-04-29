@@ -1,5 +1,5 @@
 # PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY AY 23-24
-<h3>AIM:</h3>
+<h3>AIM:To perform Matrix addition with unified memory and check its performance with nvprof.</h3>
 <h3>ENTER YOUR NAME:Harish R</h3>
 <h3>ENTER YOUR REGISTER NO:212222110012</h3>
 <h3>EX. NO</h3>
